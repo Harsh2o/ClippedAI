@@ -10,7 +10,6 @@ Returns word-level timestamps for precise clip cutting.
 import os
 import json
 import time
-import whisper
 import logging
 import subprocess
 import tempfile
@@ -37,14 +36,14 @@ class TranscriptionEngine:
         self._model = None
 
     def load_model(self, progress_callback: Optional[Callable] = None):
-        """Load the Whisper model (downloads on first run, cached afterwards)."""
-        if self._model is not None:
-            return
-        logger.info(f"Loading Whisper model: {self.model_size} on {self.device}")
-        if progress_callback:
-            progress_callback("loading_model", f"Loading Whisper '{self.model_size}' model...")
-        self._model = whisper.load_model(self.model_size, device=self.device)
-        logger.info("Whisper model loaded successfully")
+        if self._model is None:
+            import whisper
+            if progress_callback:
+                progress_callback("transcribing", f"Loading Whisper model: {self.model_size}...")
+            
+            logger.info(f"Loading Whisper model: {self.model_size} on {self.device}")
+            self._model = whisper.load_model(self.model_size, device=self.device)
+            logger.info("Whisper model loaded successfully")
 
     def transcribe(self, video_path: str, progress_callback: Optional[Callable] = None) -> dict:
         """
