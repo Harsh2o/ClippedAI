@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Payments-Razorpay-02042b.svg" alt="Razorpay">
 </p>
 
+### 🔴 [Live Demo: https://clippedai.onrender.com](https://clippedai.onrender.com)
+
 An end-to-end, production-ready SaaS application that autonomously transforms long-form videos into viral YouTube Shorts using advanced acoustic heuristics, OpenAI Whisper, and Groq's LLaMA3.
 
 </div>
