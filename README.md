@@ -14,12 +14,6 @@
 
 <div align="center">
   <img src="resources/main.png" alt="ClippedAI Landing Page" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
-  
-  <br><br>
-  <b>See the AI Generation in Action:</b><br>
-  
-<img src="resources/generation_demo.gif" alt="ClippedAI Generation Demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
-
 </div>
 
 <br>
@@ -102,6 +96,12 @@ This repository includes a production-ready `Dockerfile` optimized to run the he
 - **Video Processing:** FFmpeg, MoviePy
 - **AI Models:** OpenAI Whisper (Transcription), Groq LLaMA3 (Hook Detection)
 - **Integrations:** Google Cloud OAuth, Razorpay, YouTube Data API v3
+
+<br>
+<div align="center">
+  <b>See the AI Generation in Action:</b><br>
+  <img src="resources/generation_demo.gif" alt="ClippedAI Generation Demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
+</div>
 
 ## 📝 License
 
