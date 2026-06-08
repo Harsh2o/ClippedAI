@@ -20,4 +20,5 @@ temp/
 .idea/
 
 # Google Client Secrets (Don't leak these!)
-client_secrets/client_secrets.json
+client_secrets/
+client_secrets.json
