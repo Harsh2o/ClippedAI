@@ -17,7 +17,7 @@
   
   <br><br>
   <b>See the AI Generation in Action:</b><br>
-  <a href="resources/generation_demo.mp4">▶️ Watch Demonstration Video</a>
+  <video src="https://raw.githubusercontent.com/Harsh2o/ClippedAI/main/resources/generation_demo.mp4" autoplay loop muted playsinline width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;"></video>
 </div>
 
 <br>
