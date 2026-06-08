@@ -1,0 +1,1 @@
+# ClippedAI Core Package

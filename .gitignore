@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database
+database.db
+
+# User Uploads and Outputs
+uploads/
+outputs/
+temp/
+
+# IDE files
+.vscode/
+.idea/
+
+# Google Client Secrets (Don't leak these!)
+client_secrets/client_secrets.json

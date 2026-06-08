@@ -1,0 +1,80 @@
+2026-06-07 18:47:42,191 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 18:47:42,943 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 18:47:42,945 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 18:49:15,209 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 18:49:15,612 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 18:49:15,612 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 18:49:46,600 [INFO] core.transcribe: Transcription completed in 31.0s
+2026-06-07 18:49:46,752 [INFO] core.transcribe: Transcript saved to: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.transcript.json
+2026-06-07 18:49:46,753 [INFO] core.scorer: Scoring 15 segments over 58s video
+2026-06-07 18:49:53,558 [INFO] core.scorer: Selected 1 clips
+2026-06-07 18:49:53,592 [INFO] core.processor: FFmpeg OK: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-06-07 18:51:20,974 [INFO] core.transcribe: SRT file written: output\Video Project 2\short_01.srt
+2026-06-07 18:51:58,443 [INFO] core.uploader: Uploading Short 1/1: Bulli forte When mじゃ shire prolonging of kottinal And eve...
+2026-06-07 18:51:58,812 [INFO] googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2026-06-07 18:51:58,816 [INFO] core.uploader: YouTube API authenticated successfully
+2026-06-07 18:52:19,571 [INFO] core.uploader: Thumbnail set for video Mrra6BQemIo
+2026-06-07 18:52:19,571 [INFO] core.uploader: Upload complete: https://www.youtube.com/shorts/Mrra6BQemIo
+2026-06-07 18:56:26,282 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 18:56:26,678 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 18:56:26,678 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 18:56:51,574 [INFO] core.transcribe: Transcription completed in 24.9s
+2026-06-07 18:56:51,658 [INFO] core.transcribe: Transcript saved to: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.transcript.json
+2026-06-07 18:56:51,659 [INFO] core.scorer: Scoring 12 segments over 58s video
+2026-06-07 18:56:53,129 [INFO] core.scorer: Selected 1 clips
+2026-06-07 18:56:53,163 [INFO] core.processor: FFmpeg OK: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-06-07 18:58:14,112 [INFO] core.uploader: Uploading Short 1/1: 한국 night Allы Signal river Usel
+2026-06-07 18:58:14,424 [INFO] googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2026-06-07 18:58:14,426 [INFO] core.uploader: YouTube API authenticated successfully
+2026-06-07 18:58:35,732 [INFO] core.uploader: Thumbnail set for video HYXL9jQATLg
+2026-06-07 18:58:35,732 [INFO] core.uploader: Upload complete: https://www.youtube.com/shorts/HYXL9jQATLg
+2026-06-07 19:01:40,162 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 19:01:40,570 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 19:01:40,571 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 19:02:08,483 [INFO] core.transcribe: Transcription completed in 27.9s
+2026-06-07 19:02:08,567 [INFO] core.transcribe: Transcript saved to: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.transcript.json
+2026-06-07 19:02:08,567 [INFO] core.scorer: Scoring 15 segments over 58s video
+2026-06-07 19:02:09,936 [INFO] core.scorer: Selected 1 clips
+2026-06-07 19:02:09,967 [INFO] core.processor: FFmpeg OK: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-06-07 19:06:26,274 [INFO] core.uploader: Uploading Short 1/1: stole my blood,番body
+2026-06-07 19:06:26,725 [INFO] googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2026-06-07 19:06:26,729 [INFO] core.uploader: YouTube API authenticated successfully
+2026-06-07 19:06:55,616 [INFO] core.uploader: Thumbnail set for video rXdarPFdQ5M
+2026-06-07 19:06:55,616 [INFO] core.uploader: Upload complete: https://www.youtube.com/shorts/rXdarPFdQ5M
+2026-06-07 19:10:27,044 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 19:10:27,473 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 19:10:27,473 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 19:11:03,478 [INFO] core.transcribe: Transcription completed in 36.0s
+2026-06-07 19:11:03,566 [INFO] core.transcribe: Transcript saved to: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.transcript.json
+2026-06-07 19:11:03,566 [INFO] core.scorer: Scoring 19 segments over 58s video
+2026-06-07 19:11:04,897 [INFO] core.scorer: Selected 1 clips
+2026-06-07 19:11:04,931 [INFO] core.processor: FFmpeg OK: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-06-07 19:13:23,545 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 19:13:23,944 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 19:13:23,945 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 19:13:48,383 [INFO] core.transcribe: Transcription completed in 24.4s
+2026-06-07 19:13:48,464 [INFO] core.transcribe: Transcript saved to: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.transcript.json
+2026-06-07 19:13:48,465 [INFO] core.scorer: Scoring 13 segments over 58s video
+2026-06-07 19:13:49,866 [INFO] core.scorer: Selected 1 clips
+2026-06-07 19:13:49,897 [INFO] core.processor: FFmpeg OK: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-06-07 19:16:49,248 [INFO] core.transcribe: SRT file written: output\Video Project 2\short_01.srt
+2026-06-07 19:18:38,149 [INFO] core.uploader: Uploading Short 1/1: No,no,no,no
+2026-06-07 19:18:38,651 [INFO] googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2026-06-07 19:18:38,655 [INFO] core.uploader: YouTube API authenticated successfully
+2026-06-07 19:19:05,332 [INFO] core.uploader: Thumbnail set for video qaa5f3mP6Sg
+2026-06-07 19:19:05,334 [INFO] core.uploader: Upload complete: https://www.youtube.com/shorts/qaa5f3mP6Sg
+2026-06-07 19:25:45,524 [INFO] core.transcribe: Loading Whisper model: tiny on cpu
+2026-06-07 19:25:45,914 [INFO] core.transcribe: Whisper model loaded successfully
+2026-06-07 19:25:45,915 [INFO] core.transcribe: Starting transcription of: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.mp4
+2026-06-07 19:26:18,380 [INFO] core.transcribe: Transcription completed in 32.5s
+2026-06-07 19:26:18,501 [INFO] core.transcribe: Transcript saved to: C:\Users\hemla\Downloads\inter\ClippedAI\output\313ebc86\Video Project 2.transcript.json
+2026-06-07 19:26:18,501 [INFO] core.scorer: Scoring 17 segments over 58s video
+2026-06-07 19:26:20,424 [INFO] core.scorer: Selected 1 clips
+2026-06-07 19:26:20,475 [INFO] core.processor: FFmpeg OK: ffmpeg version 8.1.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers
+2026-06-07 19:30:33,633 [INFO] core.transcribe: SRT file written: output\Video Project 2\short_01.srt
+2026-06-07 19:32:22,753 [INFO] core.uploader: Uploading Short 1/1: is amazing Chingath deity Majaki
+2026-06-07 19:32:23,974 [INFO] core.uploader: Token saved to: client_secrets/token.json
+2026-06-07 19:32:23,979 [INFO] googleapiclient.discovery_cache: file_cache is only supported with oauth2client<4.0.0
+2026-06-07 19:32:23,988 [INFO] core.uploader: YouTube API authenticated successfully
+2026-06-07 19:32:50,584 [INFO] core.uploader: Thumbnail set for video FWlUeHxxpMY
+2026-06-07 19:32:50,585 [INFO] core.uploader: Upload complete: https://www.youtube.com/shorts/FWlUeHxxpMY

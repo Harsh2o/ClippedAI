@@ -1,0 +1,59 @@
+# ╔══════════════════════════════════════════╗
+# ║         ClippedAI Configuration          ║
+# ╚══════════════════════════════════════════╝
+
+# ─── Whisper Transcription ──────────────────
+whisper:
+  model: "base"          # tiny | base | small | medium | large
+  language: null         # null = auto-detect, or e.g. "en", "es", "hi"
+  device: "cpu"          # cpu | cuda (if you have an NVIDIA GPU)
+
+# ─── Highlight Detection ────────────────────
+scoring:
+  min_clip_duration: 30  # seconds — minimum Short length
+  max_clip_duration: 58  # seconds — maximum Short length (must be <60 for Shorts)
+  num_clips: 8           # how many Shorts to generate per video
+  overlap_threshold: 15  # seconds — avoid overlapping clips
+
+# ─── Video Processing ───────────────────────
+video:
+  output_width: 1080
+  output_height: 1920
+  fps: 30
+  video_bitrate: "4M"
+  audio_bitrate: "192k"
+  blur_background: true  # blurred 16:9 fills behind vertical crop
+
+# ─── Subtitle Styling ───────────────────────
+subtitles:
+  font: "Arial"
+  font_size: 18          # subtitle font size (pts) — auto scales in FFmpeg
+  primary_color: "&H00FFFFFF"   # white text
+  outline_color: "&H00000000"   # black outline
+  outline_width: 3
+  shadow: 2
+  bold: true
+  position: "bottom"     # bottom | middle | top
+  margin_v: 80           # vertical margin from edge
+
+# ─── YouTube Upload ─────────────────────────
+youtube:
+  auto_upload: false     # true = auto-upload after processing
+  privacy: "public"      # public | unlisted | private
+  category_id: "22"      # 22 = People & Blogs, 24 = Entertainment, 17 = Sports
+  default_tags:
+    - "Shorts"
+    - "YouTubeShorts"
+    - "viralclips"
+  title_suffix: " #Shorts"
+  description_template: |
+    🎬 Watch the full video for more!
+
+    #Shorts #Viral #Trending
+
+# ─── Paths ──────────────────────────────────
+paths:
+  output_dir: "output"
+  uploads_dir: "uploads"
+  credentials_file: "client_secrets/credentials.json"
+  token_file: "client_secrets/token.json"
