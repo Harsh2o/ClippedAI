@@ -97,12 +97,6 @@ This repository includes a production-ready `Dockerfile` optimized to run the he
 - **AI Models:** OpenAI Whisper (Transcription), Groq LLaMA3 (Hook Detection)
 - **Integrations:** Google Cloud OAuth, Razorpay, YouTube Data API v3
 
-<br>
-<div align="center">
-  <b>See the AI Generation in Action:</b><br>
-  <img src="resources/generation_demo.gif" alt="ClippedAI Generation Demo" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
-</div>
-
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
