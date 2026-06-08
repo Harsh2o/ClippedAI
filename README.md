@@ -97,6 +97,11 @@ This repository includes a production-ready `Dockerfile` optimized to run the he
 - **AI Models:** OpenAI Whisper (Transcription), Groq LLaMA3 (Hook Detection)
 - **Integrations:** Google Cloud OAuth, Razorpay, YouTube Data API v3
 
+
+https://github.com/user-attachments/assets/910139db-c46d-4c9d-b21c-74356b2299b2
+
+
+
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
