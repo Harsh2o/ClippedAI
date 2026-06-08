@@ -12,6 +12,16 @@
 
 ### 🔴 [Live Demo: https://clippedai.onrender.com](https://clippedai.onrender.com)
 
+<div align="center">
+  <img src="resources/dashboard_demo.png" alt="ClippedAI Dashboard" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
+  
+  <br><br>
+  <b>See the AI Generation in Action:</b><br>
+  <a href="resources/generation_demo.mp4">▶️ Watch Demonstration Video</a>
+</div>
+
+<br>
+
 An end-to-end, production-ready SaaS application that autonomously transforms long-form videos into viral YouTube Shorts using advanced acoustic heuristics, OpenAI Whisper, and Groq's LLaMA3.
 
 </div>
