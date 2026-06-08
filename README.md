@@ -13,7 +13,7 @@
 ### 🔴 [Live Demo: https://clippedai.onrender.com](https://clippedai.onrender.com)
 
 <div align="center">
-  <img src="resources/main.png" alt="ClippedAI Dashboard" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
+  <img src="resources/main.png" alt="ClippedAI Landing Page" width="800" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0;">
   
   <br><br>
   <b>See the AI Generation in Action:</b><br>
